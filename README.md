@@ -8,8 +8,8 @@
 <!-- Div do gitStats e top langs -->
 <div align="center">
   <a href="https://github.com/lsouza32">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=lsouza32&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsouza32&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lsouza32&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsouza32&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### Desculpe a falta de projetos, meu perfil está passando por algumas manutenções no momento. Mas segue algumas tecnologias que utilizo no meu dia a dia
