@@ -1,8 +1,8 @@
 ## Eaii, pode me chamar de Lukinhas 👋
 
 
-- 👨🏻‍💻 Hoje eu trabalho com redes e servidores
-- 📖 Estudando programação mobile, redes, servidores e afins
+- 👨🏻‍💻 Em busca de uma vaga Dev
+- 📖 Estudando desenvolvimento mobile, web e afins
 - 🎓 Cursando Engenharia da Computação na UTFPR
 
 <!-- Div do gitStats e top langs -->
