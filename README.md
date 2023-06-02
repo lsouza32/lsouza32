@@ -12,12 +12,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsouza32&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Desculpe a falta de projetos, meu perfil está passando por algumas manutenções no momento. Mas segue algumas tecnologias que utilizo no meu dia a dia
+### Essas são algumas tecnologias que utilizo no meu dia a dia
 <!-- Icons linguagens usadas -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Lucas-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Lucas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Lucas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">  
+  <img align="center" alt="Lucas-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+          
   
  ##
  
