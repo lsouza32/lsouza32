@@ -10,7 +10,7 @@
   <a href="https://github.com/lsouza32">
    <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?lsouza32=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?lsouza32&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <img src="https://github-readme-stats.vercel.app/api?lsouza32=anuraghazra&show_icons=true" />
