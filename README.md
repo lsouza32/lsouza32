@@ -32,7 +32,6 @@
   <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   <!-- Cobrinha --> 
-  ![snake animation](https://github.com/lsouza32/lsouza32/blob/output/github-contribution-grid-snake2.svg)
   ![Snake animation](https://github.com/lsouza32/lsouza32/blob/output/github-contribution-grid-snake.svg)
  
 </div>
