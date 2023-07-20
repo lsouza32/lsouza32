@@ -33,6 +33,6 @@
  
   <!-- Cobrinha --> 
 
-  ![Snake animation](https://github.com/lsouza32/lsouza32/blob/output/github-contribution-grid-snake.gif)
+  ![Snake animation](https://github.com/lsouza32/lsouza32/blob/output/github-contribution-grid-snake.svg)
  
 </div>
