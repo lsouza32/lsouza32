@@ -1,4 +1,4 @@
-## Eaii, pode me chamar de Lukinhas 👋
+👋
 
 
 - 📖 Estudando desenvolvimento mobile, web e afins
