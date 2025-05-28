@@ -1,7 +1,6 @@
 ## Eaii, pode me chamar de Lukinhas 👋
 
 
-- 👨🏻‍💻 Em busca de uma vaga Dev
 - 📖 Estudando desenvolvimento mobile, web e afins
 - 🎓 Cursando Engenharia da Computação na UTFPR
 
