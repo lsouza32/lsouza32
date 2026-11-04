@@ -14,7 +14,6 @@ Desenvolvedor mobile e fullstack, estudante de Engenharia de Computação na UTF
 |---|---|
 | [classificador-folhas-milho](https://github.com/lsouza32/classificador-folhas-milho) | CNN em PyTorch para doenças em folhas de milho, com divisão sem vazamento de dados, testes e resultados reproduzíveis (Python) |
 | [WAITERAPP](https://github.com/lsouza32/WAITERAPP) | Sistema de pedidos para restaurantes com API, front-end web e app mobile (TypeScript) |
-| [site-bloqueio](https://github.com/lsouza32/site-bloqueio) | Site para gestão dos laboratórios de informática da UTFPR Apucarana, com servidor e interface web (JavaScript e TypeScript) |
 | [Faculdade](https://github.com/lsouza32/Faculdade) | Trabalhos da graduação (Java) |
 
 ## Tecnologias
